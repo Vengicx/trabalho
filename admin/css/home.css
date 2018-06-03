@@ -1,0 +1,26 @@
+img {
+    width: 100px;
+}
+
+body {
+    background-color:beige !important;
+}
+
+#telaInicial {
+    height: 510px !important;
+}
+
+.table {
+    border-radius: 10px !important;
+}
+
+#tela {
+    width: 720px;
+    padding: 20px;
+    border-radius: 5px;
+    border: 1px solid #333;
+    box-shadow: 1px 1px 0px #000;
+    margin: 50px auto;
+    background: rgba(0, 0, 0, 0.4);
+    color: #fff; 
+}

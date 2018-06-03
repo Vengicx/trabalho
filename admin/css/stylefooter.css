@@ -1,0 +1,15 @@
+footer {
+    background: #fff;
+    padding: 10px;
+    width: 100%;
+  }
+  
+footer p {
+    text-align: center;
+    text-decoration: none;
+  }
+
+footer a, i {
+    font-size: 15px;
+    text-decoration: none !important;
+}
